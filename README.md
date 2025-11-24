@@ -43,7 +43,7 @@ pip install streamlit pandas numpy tensorflow joblib requests pillow fpdf python
 
 1. Get a free API key from [OpenWeatherMap](https://openweathermap.org/api)
 2. Open `integrated_app.py`
-3. Replace `YOUR_API_KEY_HERE` on line 55:
+3. Replace `YOUR_API_KEY_HERE`:
    ```python
    OPENWEATHER_API_KEY = "your_actual_api_key_here"
    ```
