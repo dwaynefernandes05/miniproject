@@ -1,4 +1,4 @@
-# 🌍 EcoCast - Integrated Disaster Detection System
+# 🌍 GeoGuard - Integrated Disaster Detection System
 
 A comprehensive AI-powered disaster monitoring and detection system that combines multiple environmental hazard detection capabilities with real-time weather data analysis.
 
